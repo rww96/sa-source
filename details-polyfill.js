@@ -1,3 +1,7 @@
+(function() {}).call(this),
+    function() {
+        
+
 var addAttributesForSummary, eventIsSignificant, findClosestElementWithTagName, onTogglingTrigger, polyfillFocusAndARIA, polyfillProperties, polyfillStyles, polyfillToggle, polyfillToggleEvent, support, triggerToggle, triggerToggleIfToggled;
 
 support = {
@@ -261,3 +265,7 @@ if (!support.element) {
 if (support.element && !support.toggleEvent) {
   polyfillToggleEvent();
 }
+  
+  
+    }.call(this),
+    function() {}.call(this);
